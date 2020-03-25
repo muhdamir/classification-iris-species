@@ -23,7 +23,7 @@ In the last part of the coding, this simple program will ask for input from the 
     <th>SepalLengthCm</th>
     <th>SepalWidthCm</th>
     <th>PetalLengthCm</th>
-    <PetalWidthCm</th>
+    <th>PetalWidthCm</th>
   </tr>
   <tr>
     <td>6.3</td>
