@@ -4,7 +4,7 @@ This project is just for me to understand more about logistic regression by foll
 
 ## Getting Started
 
-This project uses the iris data set which can be downloaded <a href="https://archive.ics.uci.edu/ml/datasets/Iris" target="_blank">here</a> 
+This project uses the iris data set which can be downloaded at <a href="https://archive.ics.uci.edu/ml/datasets/Iris" target="_blank">UC Irvine Machine Learning Repository</a> 
 
 ### Prerequisites
 
@@ -43,3 +43,4 @@ If we take these values as input, then it is expected that the algorithm will re
 ## Acknowledgments
 
 * Thanks to Analytics Vidhya for sharing so many useful information and tutorial which can be easily followed by a novice like me.
+* Thanks to UC Irvine Machine Learning Repository for providing this nice Iris data set publicly.
